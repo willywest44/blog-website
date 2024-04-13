@@ -15,7 +15,7 @@ const Sdata = [
     },
     {
       id: 3,
-      cover: "/Images/cart-4.jpg",
+      cover: "/Images/blog4.jpg",
       category: "lifestyle",
       title: "What are the best countries to visit?",
       desc: "In this post, we are going to highlight the many benefits of blogging for business and how you can get started with",
